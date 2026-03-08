@@ -1,0 +1,6 @@
+psutil
+pywin32; sys_platform == 'win32'
+plyer
+matplotlib
+numpy
+PySide6
